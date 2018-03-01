@@ -1,0 +1,44 @@
+symbol, 
+exchange, 
+id
+t: similar to symbol
+e: exchange
+name: name
+f_reuters_url:  
+f_recent_quarter_date: recent quarter
+f_annlyal_date:
+f_ttm_date: year first traded
+financials: returns recent_quarter, annual and trailing twelve months
+kr_recent_quarter_date:
+kr_annual_date:
+kr_ttm_date:
+c: price change 
+l: real-time price
+cp: change in percentage 
+ccol, 
+op: open price
+hi: day high
+lo: day low
+vo: volume
+avvo: average volume
+hi52: 52 wk high
+lo52: 52 wk low
+mc: market cap
+pe: PE ratio
+fwpe: forward price earning? I guess
+beta: beta
+eps: eps
+dy: dividend yield
+ldiv: last dividend
+shares: number of shares
+instown: institutions own percentage
+eo: unknown 
+sid: sid
+sname: sector name
+iid: iid
+iname: industry name
+related: other related companies in the same industry
+summary: phone number, fax, url, address and overview
+management: management people details
+moreresources: more resources
+events:  
